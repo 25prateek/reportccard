@@ -10,6 +10,6 @@ pdf0 - 1 student
 pdf5- 2 student
 
 
-so on like that till pdf 45 -10
+so on like that till pdf 45- 10 student 
 
 
